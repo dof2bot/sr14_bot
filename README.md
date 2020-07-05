@@ -33,7 +33,7 @@ in progress
 
 ### USAGE
 
-Planned for combined operation with [pidrone] (https://github.com/dof2bot/pidrone).
+Planned for combined operation with [pidrone](https://github.com/dof2bot/pidrone).
 ```
 in progress
 ```
